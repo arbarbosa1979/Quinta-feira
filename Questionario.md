@@ -37,6 +37,7 @@ Falando de uma forma simples, os pull request são um mecanismo para um desenvol
 Mas, o pull request é mais do que uma simples notificação - é um fórum dedicado a discutir a funcionalidade proposta. Se houver algum problema com as alterações, os colegas de equipe podem colocar comentários no pull request e até ajustar a funcionalidade enviando novos commit de correção. Toda esta atividade é rastreada diretamente no interior do pull request.
 
 9 - O que é fork?
+Um fork em Git é simplesmente uma cópia de um repositório existente em que o novo proprietário desconecta a base de códigos de compromissos anteriores. Um garfo ocorre frequentemente quando um programador fica insatisfeito ou desiludido com a direcção de um projecto e quer separar o seu trabalho do do projecto original. Quando ocorre uma bifurcação, os contribuidores anteriores não poderão submeter o código ao novo repositório sem que o proprietário lhes dê acesso à bifurcação, quer fornecendo aos programadores o URL de Git publicamente acessível, quer fornecendo acesso explícito através de permissão de utilizador em ferramentas como GitHub ou GitLab.
 
 10 - O que é VCS?
 
