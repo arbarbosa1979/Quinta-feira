@@ -32,6 +32,9 @@ Quase todo Sistema de Controle de Versionamento tem alguma forma de suporte a ra
 Uma ramificação no git é um ponteiro para as alterações feitas nos arquivos do projeto. É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos do projeto principal. Depois de concluir a atualização dos códigos da ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de master.
 
 8 - O que é pull request?
+Falando de uma forma simples, os pull request são um mecanismo para um desenvolvedor notificar os membros da equipe de que completaram uma nova funcionalidade. Uma vez que o seu ramo de funcionalidade esteja pronto, o programador apresenta um pedido de pull request através da sua conta git. Isto permite a todos os envolvidos saberem que precisam de rever o código e fundi-lo no ramo principal.
+
+Mas, o pull request é mais do que uma simples notificação - é um fórum dedicado a discutir a funcionalidade proposta. Se houver algum problema com as alterações, os colegas de equipe podem colocar comentários no pull request e até ajustar a funcionalidade enviando novos commit de correção. Toda esta atividade é rastreada diretamente no interior do pull request.
 
 9 - O que é fork?
 
