@@ -12,3 +12,5 @@
 
 7 - O que e branch?
 
+8 - O que é pull request?
+
