@@ -40,4 +40,6 @@ Mas, o pull request é mais do que uma simples notificação - é um fórum dedi
 Um fork em Git é simplesmente uma cópia de um repositório existente em que o novo proprietário desconecta a base de códigos de compromissos anteriores. Um garfo ocorre frequentemente quando um programador fica insatisfeito ou desiludido com a direcção de um projecto e quer separar o seu trabalho do do projecto original. Quando ocorre uma bifurcação, os contribuidores anteriores não poderão submeter o código ao novo repositório sem que o proprietário lhes dê acesso à bifurcação, quer fornecendo aos programadores o URL de Git publicamente acessível, quer fornecendo acesso explícito através de permissão de utilizador em ferramentas como GitHub ou GitLab.
 
 10 - O que é VCS?
+O controle de versão, também conhecido como controle de fonte, é a prática de rastrear e gerenciar as alterações em um código de software. Os sistemas de controle de versão são ferramentas de software que ajudam as equipes de software a gerenciar as alterações ao código-fonte ao longo do tempo. Como os ambientes de desenvolvimento aceleraram, os sistemas de controle de versão ajudam as equipes de software a trabalhar de forma mais rápida e inteligente. Eles são ainda mais úteis para as equipes de DevOps, pois as auxiliam a reduzir o tempo de desenvolvimento e aumentar as implementações bem-sucedidas.
+
 
