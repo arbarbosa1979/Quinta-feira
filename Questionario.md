@@ -15,3 +15,6 @@
 8 - O que é pull request?
 
 9 - O que é fork?
+
+10 - O que é VCS?
+
