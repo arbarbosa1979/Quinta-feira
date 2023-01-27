@@ -12,8 +12,12 @@ Além disso, cada commit tem um hash único SHA1 que pode ser usado para acompan
 Um repositório, ou repo, é um diretório onde você armazena os arquivos do seu projeto, que podem ser códigos, imagens, áudios, vídeos ou qualquer coisa relacionada a esse projeto. Ele pode ficar armazenado no seu computador, um repositório local, ou também ser armazenado em alguns serviços como GitHub, BitBucket ou GitLab, ou seja, um repositório remoto.
 
 4 - O que é merge?
+Merge é o comando que unifica algum histórico bifurcado. Resumindo, o Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal. É importante notar que o comando git branch cria uma nova ramificação a partir da branch que o desenvolvedor está situado.
+
+Ainda, vale ressaltar que a mesclagem é sempre feita com o auxílio do comando Git checkout, isso porque a alteração vai ser feita apenas na branch principal e a nova ramificação não sofre alteração. Exemplificando, fazemos a troca de branches com o Git checkout e, logo em seguida, fazemos a mesclagem da nova bifurcação para a ramificação principal.
 
 5 - O que é pull?
+
 
 6 - O que é push?
 
